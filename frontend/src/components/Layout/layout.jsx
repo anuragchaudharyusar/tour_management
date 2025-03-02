@@ -1,7 +1,8 @@
 import React from 'react'
-import Header from "../components/Header/header"; 
-import Footer from "../components/Footer/footer"; 
-import Routers from "../router/Routers";
+import Header from "../Header/header"; 
+import Footer from "../Footer/footer"; 
+import Routers from "../../router/Routers"; 
+
 
 const layout = () => {
   return<>
